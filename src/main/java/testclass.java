@@ -15,4 +15,10 @@ public class testclass {
     else
       return 1;
   }
+
+  int test4() {
+    if (true)
+      return 5;
+    return 4;
+  }
 }
